@@ -1,0 +1,23 @@
+.NClass{
+    background-color: #ff000080;
+    font-family: Verdana, "DejaVu Sans", "sans-serif" ;
+}
+
+.CoolerClass{
+    font-size: 24px
+}
+
+#ID1{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+/* The solution code added an adjust font size 
+class. This helps reduce excess code.
+*/
+
+#ID2{
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: bold;
+}
